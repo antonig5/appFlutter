@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727567639971",
+    "firebase_url": "https://biblioteca-animated-default-rtdb.firebaseio.com",
+    "project_id": "biblioteca-animated",
+    "storage_bucket": "biblioteca-animated.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727567639971:android:726449f59743ae1cdba616",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727567639971-kop2mg72ckeet0rguc9jilfeqm2ebb1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo7afEArjB8UmWcEjlezNmGi_cF4_mWjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727567639971-kop2mg72ckeet0rguc9jilfeqm2ebb1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
